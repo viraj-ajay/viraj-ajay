@@ -19,4 +19,4 @@ Working through a frontend engineering track — React patterns, component archi
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/viraj-ajay) · [GitHub](https://github.com/viraj-ajay)
+[LinkedIn](www.linkedin.com/in/viraj-ajaykumar) · [GitHub](https://github.com/viraj-ajay)
